@@ -1,5 +1,4 @@
-needs: [job1, job2]
-name: project2
+name: seqential job
 on: push
 jobs:
   build:
